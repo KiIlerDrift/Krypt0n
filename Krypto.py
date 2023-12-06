@@ -736,8 +736,8 @@ Title = ('''
 [#3F88C5]╚═╝  ╚═╝╚═╝  ╚═╝[/#3F88C5]    ╚═╝   ╚═╝        ╚═╝    ╚═════╝ ╚═╝  ╚═══╝
                                                                                                                        
 
-[red]KillerDrift#4004[/red] | [blue]https://dsc.gg/krypt0n\n
-[cyan]v1.01 Alpha[/cyan]''')
+[red]KillerDrift[/red] | [blue]github.com/KiIlerDrift/Krypt0n\n
+[cyan]v1.02  Alpha[/cyan]''')
                                                                                       
 console.print(Title, style=f"bold #EB5160", justify='center',)
 time.sleep(1)
